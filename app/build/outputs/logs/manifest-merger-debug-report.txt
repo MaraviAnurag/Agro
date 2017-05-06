@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:design:25.3.1] /Users/anuragmaravi/.android/build-cache/f25e02190401bcb0cd617bc96bb96d9f1660c06a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/anuragmaravi/.android/build-cache/30d8d1feed238372bb657d99766ec7a240c07a58/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/anuragmaravi/.android/build-cache/2136b520e0e52b939dfcaf207953e45656b2c0cf/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/anuragmaravi/.android/build-cache/ed3c33342f3b40dd907c9fa4b905f4ef3c319e09/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/anuragmaravi/.android/build-cache/02f9cc3e9f1da60d9b30afff98d4529af0e17eab/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/anuragmaravi/.android/build-cache/c199605f1bae58d9ba597e1f2152a277e48fb20a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/anuragmaravi/.android/build-cache/085d5a09b8d6e28d931df2cf5f5788060cb0d55f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/anuragmaravi/.android/build-cache/9dd256079afd0513b5da3ccbac65de13e73ebc2f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/anuragmaravi/.android/build-cache/d7ffe6b35e27085c245f41a255240c7fb00af602/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] /Users/anuragmaravi/.android/build-cache/93e5a1564098ff4bf38df2e7bcc1b812236b2193/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/anuragmaravi/.android/build-cache/1d07209e23a3cc90f7f616ac081ca4ba12ec4452/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/anuragmaravi/.android/build-cache/65e9589d2787dd782640abec8213f40e39b4989b/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.mearkiphi.agro.activity.MainActivity
+ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:12:9-22:20
+	android:label
+		ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:15:13-40
+	android:name
+		ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:13:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/anuragmaravi/.android/build-cache/f25e02190401bcb0cd617bc96bb96d9f1660c06a/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/anuragmaravi/.android/build-cache/30d8d1feed238372bb657d99766ec7a240c07a58/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/anuragmaravi/.android/build-cache/2136b520e0e52b939dfcaf207953e45656b2c0cf/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/anuragmaravi/.android/build-cache/ed3c33342f3b40dd907c9fa4b905f4ef3c319e09/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/anuragmaravi/.android/build-cache/02f9cc3e9f1da60d9b30afff98d4529af0e17eab/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/anuragmaravi/.android/build-cache/c199605f1bae58d9ba597e1f2152a277e48fb20a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/anuragmaravi/.android/build-cache/085d5a09b8d6e28d931df2cf5f5788060cb0d55f/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/anuragmaravi/.android/build-cache/9dd256079afd0513b5da3ccbac65de13e73ebc2f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.0.0] /Users/anuragmaravi/.android/build-cache/d7ffe6b35e27085c245f41a255240c7fb00af602/output/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:25.2.0] /Users/anuragmaravi/.android/build-cache/93e5a1564098ff4bf38df2e7bcc1b812236b2193/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/anuragmaravi/.android/build-cache/ec4c1e2e3ecb0d663c9bf7f8a0b7d66f3e836dfd/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/anuragmaravi/.android/build-cache/1d07209e23a3cc90f7f616ac081ca4ba12ec4452/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/anuragmaravi/.android/build-cache/65e9589d2787dd782640abec8213f40e39b4989b/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/anuragmaravi/.android/build-cache/f25e02190401bcb0cd617bc96bb96d9f1660c06a/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/anuragmaravi/.android/build-cache/f25e02190401bcb0cd617bc96bb96d9f1660c06a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/anuragmaravi/.android/build-cache/30d8d1feed238372bb657d99766ec7a240c07a58/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/anuragmaravi/.android/build-cache/2136b520e0e52b939dfcaf207953e45656b2c0cf/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/anuragmaravi/.android/build-cache/ed3c33342f3b40dd907c9fa4b905f4ef3c319e09/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/anuragmaravi/.android/build-cache/02f9cc3e9f1da60d9b30afff98d4529af0e17eab/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/anuragmaravi/.android/build-cache/c199605f1bae58d9ba597e1f2152a277e48fb20a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/anuragmaravi/.android/build-cache/085d5a09b8d6e28d931df2cf5f5788060cb0d55f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/anuragmaravi/.android/build-cache/9dd256079afd0513b5da3ccbac65de13e73ebc2f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/anuragmaravi/.android/build-cache/ec4c1e2e3ecb0d663c9bf7f8a0b7d66f3e836dfd/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/anuragmaravi/.android/build-cache/1d07209e23a3cc90f7f616ac081ca4ba12ec4452/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/anuragmaravi/.android/build-cache/65e9589d2787dd782640abec8213f40e39b4989b/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/anuragmaravi/.android/build-cache/f25e02190401bcb0cd617bc96bb96d9f1660c06a/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/anuragmaravi/.android/build-cache/f25e02190401bcb0cd617bc96bb96d9f1660c06a/output/AndroidManifest.xml:26:9-47

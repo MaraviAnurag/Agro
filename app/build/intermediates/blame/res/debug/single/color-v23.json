@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/anuragmaravi/.android/build-cache/f25e02190401bcb0cd617bc96bb96d9f1660c06a/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

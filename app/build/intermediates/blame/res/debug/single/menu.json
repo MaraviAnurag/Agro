@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/menu/navigation.xml",
+        "source": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/res/menu/navigation.xml"
+    },
+    {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/res/menu/main_menu.xml"
+    }
+]
