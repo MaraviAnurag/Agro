@@ -12,10 +12,6 @@
         "source": "/Users/anuragmaravi/.android/build-cache/f25e02190401bcb0cd617bc96bb96d9f1660c06a/output/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/layout/fragment_movie.xml",
-        "source": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/res/layout/fragment_movie.xml"
-    },
-    {
         "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
         "source": "/Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/res/layout/abc_select_dialog_material.xml"
     },
@@ -52,12 +48,16 @@
         "source": "/Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/layout/activity_authentication.xml",
+        "source": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/res/layout/activity_authentication.xml"
+    },
+    {
         "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/Users/anuragmaravi/.android/build-cache/3c56e73e31a9bbf4ecb47f5fa372ed4c346a279c/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/layout/activity_authentication.xml",
-        "source": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/res/layout/activity_authentication.xml"
+        "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/layout/activity_list.xml",
+        "source": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/src/main/res/layout/activity_list.xml"
     },
     {
         "merged": "/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",

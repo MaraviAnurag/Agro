@@ -2,44 +2,59 @@
 <instant-run
     abi="x86"
     api-level="25"
-    build-mode="COLD"
+    build-mode="FULL"
     density="560dpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1494027361256"
+    timestamp="1494057119228"
     token="-259382040111479868"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="964" />
+        duration="4111" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="113" />
+        duration="1561" />
     <task
         name="verifier"
-        duration="9" />
+        duration="210" />
 
     <artifact
         location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
         location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
         location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
+        location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
         location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
     <artifact
         location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/outputs/apk/app-debug.apk"
@@ -47,77 +62,40 @@
 
     <build
         build-mode="FULL"
-        timestamp="1494016148598"
+        timestamp="1494057119228"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
             location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
             location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1494024472341"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1494027361256"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/Users/anuragmaravi/Documents/Android/Android Projects/Agro/app/build/outputs/apk/app-debug.apk"
